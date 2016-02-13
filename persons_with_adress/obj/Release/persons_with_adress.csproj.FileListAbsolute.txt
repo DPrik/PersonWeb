@@ -1,0 +1,164 @@
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\csc.exe
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\vbc.exe
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\persons_with_adress.dll.config
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\persons_with_adress.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\persons_with_adress.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Antlr3.Runtime.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\AutoMapper.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\BLL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Newtonsoft.Json.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Owin.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Net.Http.Formatting.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Helpers.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Http.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Http.WebHost.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Mvc.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Optimization.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Razor.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\WebGrease.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\BLL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\AutoMapper.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Net.Http.Formatting.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Http.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Http.WebHost.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Helpers.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Mvc.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Optimization.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.Razor.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Antlr3.Runtime.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Newtonsoft.Json.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\bin\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\obj\Release\persons_with_adress.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\obj\Release\persons_with_adress.dll
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\obj\Release\persons_with_adress.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\obj\Release\PersUI.Migrations.InitialCreate.resources
+C:\Users\Dima\Documents\New\persons_with_adress\persons_with_adress\obj\Release\persons_with_adress.csproj.GenerateResource.Cache
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\csc.exe
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\vbc.exe
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\persons_with_adress.dll.config
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\persons_with_adress.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\persons_with_adress.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Antlr3.Runtime.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\AutoMapper.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\BLL.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Newtonsoft.Json.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Owin.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Net.Http.Formatting.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Helpers.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Http.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Http.WebHost.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Mvc.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Optimization.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Razor.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\WebGrease.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\BLL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\AutoMapper.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Net.Http.Formatting.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Http.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Http.WebHost.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Helpers.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Mvc.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Optimization.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.Razor.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Antlr3.Runtime.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Newtonsoft.Json.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\bin\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\obj\Release\persons_with_adress.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\obj\Release\persons_with_adress.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\persons_with_adress\obj\Release\persons_with_adress.pdb

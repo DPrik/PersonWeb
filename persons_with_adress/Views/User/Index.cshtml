@@ -1,0 +1,92 @@
+﻿@model IEnumerable<persons_with_adress.Models.PersoneViewModel>
+
+<p>
+    @*@Html.ActionLink("Profile", "ShowProfile");*@
+    <button class="btn btn-info col-md-2" onclick="AddPerson()">New person</button>
+    <button class="btn btn-info col-md-2" onclick="ShowUserProf()">User</button>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phones)
+            </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Addresses)
+        </th>
+        <th></th>
+    </tr>
+
+
+
+
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            <select>
+                @foreach (var phone in item.Phones)
+                {
+                    <option value="@phone.Number">@phone.Number (@phone.Type)</option>
+
+                }
+            </select>
+        </td>
+        <td>
+            <select>
+                @foreach (var adreess in item.Addresses)
+                {
+                    <option value="@adreess.Apartments">@adreess.Build </option>
+
+                }
+            </select>
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            <a href="#" class="btn btn-success" onclick="EditPersonResult(@item.Id)">Edit</a>          
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+
+
+
+
+
+<div id="modalContainer">
+    <!-- Modal -->
+    <div id="myModal" class="modal" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body" id="bodyModal">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

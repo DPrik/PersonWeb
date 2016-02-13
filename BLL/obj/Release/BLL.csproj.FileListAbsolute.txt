@@ -1,0 +1,28 @@
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\BLL.dll.config
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\BLL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\BLL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\AutoMapper.dll
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\AutoMapper.xml
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\obj\Release\BLL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\BLL\obj\Release\BLL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\BLL.dll.config
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\BLL.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\BLL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\AutoMapper.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\AutoMapper.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\obj\Release\BLL.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\BLL\obj\Release\BLL.pdb

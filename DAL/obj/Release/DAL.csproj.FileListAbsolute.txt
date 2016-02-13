@@ -1,0 +1,25 @@
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\DAL.dll.config
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\AutoMapper.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\AutoMapper.xml
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\obj\Release\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\obj\Release\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\obj\Release\DAL.Migrations.InitialCreate.resources
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\obj\Release\DAL.csproj.GenerateResource.Cache
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\DAL.dll.config
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\AutoMapper.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\AutoMapper.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\obj\Release\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress (2)\persons_with_adress\DAL\obj\Release\DAL.pdb

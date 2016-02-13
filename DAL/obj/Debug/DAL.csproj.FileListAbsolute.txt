@@ -1,0 +1,11 @@
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\DAL.dll.config
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\DAL.pdb
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\AutoMapper.xml
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\obj\Debug\DAL.dll
+C:\Users\Dima\Documents\New\persons_with_adress\DAL\obj\Debug\DAL.pdb
